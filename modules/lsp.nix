@@ -11,7 +11,7 @@
     enable = true;
     mappings = {
       complete = null;
-      confirm = "<C-y>";
+      confirm = "<C-Space>";
       next = "<C-n>";
       previous = "<C-p>";
     };
