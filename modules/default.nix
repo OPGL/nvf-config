@@ -25,5 +25,6 @@ in {
       ./statusline.nix
       ./telescope.nix
       ./theme.nix
+      ./auto-save.nix
     ];
 }
