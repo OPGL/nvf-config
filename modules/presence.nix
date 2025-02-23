@@ -7,7 +7,6 @@
         require("presence").setup({
           neovim_image_text = "Why would I exit Vim?",
           main_image = "file",
-          buttons = false,
           show_time = true,
         })
       '';
